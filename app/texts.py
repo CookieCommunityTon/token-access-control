@@ -190,8 +190,8 @@ TEXT_MESSAGES = {
             f"{hide_link('https://telegra.ph//file/db9c5c3febe75811e41af.jpg')}"
             "🤖 <b>Welcome!</b>\n\n"
             "I'm your personal guide in the world of private chats. "
-            "My main task is to provide you with access to our private chats, "
-            "based on your possession of the corresponding tokens.\n\n"
+            "My main task is to provide you with access to our private chat NFT Holders, "
+            "based on your possession of the corresponding NFT.\n\n"
             "<blockquote><b>Private Chats:</b>\n{chats}\n"
             "<b>Required Tokens:</b>\n{tokens}</blockquote>\n\n"
             "Click on <b>Check access availability</b> to find out if you'll be admitted!\n\n"
@@ -210,12 +210,12 @@ TEXT_MESSAGES = {
             f"{hide_link('https://telegra.ph//file/ceec89ba75c903210411c.jpg')}"
             "🚫 <b>Access Denied</b>\n\n"
             "Unfortunately, I did not detect the required tokens in your wallet.\n\n"
-            "Don't worry, you can <b>purchase tokens by clicking the buttons</b> below and try again."
+            "Don't worry, you can <b>purchase NFT by clicking the buttons</b> below and try again."
         ),
         "allow_access": (
             f"{hide_link('https://telegra.ph//file/6b03c59182d959cddeb02.jpg')}"
             "🎉 <b>Congratulations!</b>\n\n"
-            "You have access to our private chats.\n\n"
+            "You have access to our private chat.\n\n"
             "<b>Click on the buttons</b> below and submit an application to join, "
             "I will approve them immediately!"
         ),
